@@ -8,7 +8,7 @@ function GCal() {
   window.open("privacy.html", "Privacy Statement", "toolbar=no,scrollbars=yes,resizable=yes,width=600,height=800,top=200%, left=200%");
   }
   function staff() {
-  window.open("private.html", "Staff Roster", "toolbar=no,scrollbars=yes,resizable=yes,width=800,height=600,top=200%, left=200%");
+  window.open("private/private.html", "Staff Roster", "toolbar=no,scrollbars=yes,resizable=yes,width=800,height=600,top=200%, left=200%");
   } 
   function myFunction() {
   var x = document.getElementById("demo");
